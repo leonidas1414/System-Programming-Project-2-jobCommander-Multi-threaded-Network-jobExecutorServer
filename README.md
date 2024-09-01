@@ -130,6 +130,7 @@ make run1
 ```sh
 ssh sdixxxxxxx@linux20.di.uoa.gr
 ```
+- sdixxxxxxx: Το username, όπου το xxxxxxx είναι οι αριθμοί από τον αριθμό μητρώου(ΑΜ) ή ένα μοναδικό αναγνωριστικό.
 
 ```sh
 ./bin/jobExecutor 55555 100 4
