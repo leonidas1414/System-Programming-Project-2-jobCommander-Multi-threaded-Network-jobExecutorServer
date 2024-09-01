@@ -128,7 +128,7 @@ make run1
 
 - Σύνδεση στο μηχάνημα linux20 
 ```sh
-ssh sdi1500235@linux20.di.uoa.gr
+ssh sdixxxxxxx@linux20.di.uoa.gr
 ```
 
 ```sh
@@ -150,7 +150,7 @@ make run2
 - Σύνδεση στο μηχάνημα linux14
 
 ```sh
-ssh sdi1500235@linux14.di.uoa.gr
+ssh sdixxxxxxx@linux14.di.uoa.gr
 ```
 
 ```sh
