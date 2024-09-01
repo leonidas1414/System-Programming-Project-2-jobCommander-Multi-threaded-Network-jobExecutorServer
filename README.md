@@ -155,16 +155,16 @@ ssh sdixxxxxxx@linux14.di.uoa.gr
 ```
 
 ```sh
-./bin/jobCommander 195.134.65.91 55555 issueJob ls 
+./bin/jobCommander xxx.xxx.xx.xx 55555 issueJob ls 
 ```
 
-- 195.134.65.91: ΙΡ ή hostname του server(linux20)
+- xxx.xxx.xx.xx: ΙΡ ή hostname του server(linux20)
 - 55555: η θύρα
 - issueJob: η εντολή μαζί με τις παραμέτρους της (όπως δίνονται στην εκφώνηση)
 
 
 ```sh
-./bin/jobCommander 195.134.65.91 55555 exit
+./bin/jobCommander xxx.xxx.xx.xx 55555 exit
 ```
 
  
